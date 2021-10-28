@@ -1,3 +1,5 @@
+// ignore_for_file: constant_identifier_names
+
 import 'package:get/get.dart';
 import '../core.dart';
 
@@ -9,7 +11,11 @@ class AppPages {
   static final routes = [
     GetPage(
       name: Routes.WELCOME,
-      page: () => WelcomeView(),
+      page: () => const WelcomeView(),
+    ),
+    GetPage(
+      name: Routes.ABOUT,
+      page: () => const AboutView(),
     ),
   ];
 }

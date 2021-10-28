@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 # Video Tutorial
 - YouTube (Preview) : https://youtu.be/GfA6_JW26gM
 - YouTube (Part 1)  : https://youtu.be/SqlNko4Q1K0
+- YouTube (Part 2)  : https://youtu.be/csgJwCec2WI
 
 SUBSRIBE → https://bit.ly/3ymJhMh
 

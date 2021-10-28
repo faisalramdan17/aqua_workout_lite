@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class WelcomeView extends StatelessWidget {
-  const WelcomeView({Key? key}) : super(key: key);
+  const WelcomeView({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -58,7 +58,7 @@ class WelcomeView extends StatelessWidget {
                   ),
                   const SizedBox(height: 30),
                   TextButton(
-                    onPressed: () {},
+                    onPressed: () => Get.toNamed(Routes.ABOUT),
                     child: Container(
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(25),

@@ -4,14 +4,14 @@ import 'package:flutter/material.dart';
 class OptionWidget extends StatelessWidget {
   final String state, detail;
   final bool enable;
-  final Function()? onTap;
+  final Function() onTap;
 
   const OptionWidget({
-    Key? key,
+    Key key,
     this.onTap,
-    required this.state,
-    required this.detail,
-    required this.enable,
+    @required this.state,
+    @required this.detail,
+    @required this.enable,
   }) : super(key: key);
 
   @override
