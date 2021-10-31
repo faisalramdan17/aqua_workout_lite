@@ -1,4 +1,5 @@
 import 'package:aqua_workout_lite/core.dart';
+import 'package:aqua_workout_lite/routes/app_pages.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -80,7 +81,7 @@ class WelcomeView extends StatelessWidget {
                   ),
                   const SizedBox(height: 10),
                   TextButton(
-                    onPressed: () {},
+                    onPressed: () => Get.toNamed(Routes.LOGIN),
                     child: Container(
                       decoration: BoxDecoration(
                         borderRadius: BorderRadius.circular(25),

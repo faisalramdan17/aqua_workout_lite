@@ -6,4 +6,5 @@ abstract class Routes {
   // Main Menu Route
   static const WELCOME = '/welcome';
   static const ABOUT = '/about-you';
+  static const LOGIN = '/login';
 }

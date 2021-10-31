@@ -17,5 +17,9 @@ class AppPages {
       name: Routes.ABOUT,
       page: () => const AboutView(),
     ),
+    GetPage(
+      name: Routes.LOGIN,
+      page: () => const LoginView(),
+    ),
   ];
 }

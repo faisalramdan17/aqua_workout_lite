@@ -21,10 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 
 # Video Tutorial
 - YouTube (Preview) : https://youtu.be/GfA6_JW26gM
-- YouTube (Part 1)  : https://youtu.be/SqlNko4Q1K0
-- YouTube (Part 2)  : https://youtu.be/csgJwCec2WI
+- Workout Fitness App - Playlist Video : https://youtube.com/playlist?list=PLfoSLwBzaK26zo_RjLv2cnasV7cPywzW_
 
-SUBSRIBE → https://bit.ly/3ymJhMh
+Take my Flutter Course worth $500 for FREE → https://bit.ly/31hxS4R
 
 I hope you liked it, and dont forget to like, subscribe, share this video with your friends, and star the repository on GitHub!
 
